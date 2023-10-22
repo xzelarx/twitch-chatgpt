@@ -72,7 +72,7 @@ Veso-R its the name of the corpus we can play as in the new war quest.
 Nidus Prime is the Primed variant of Nidus introduced in the game in September 8th 2021, sporting enhanced Health, Energy, and Armor, as well as an additional Naramon Pol polarity. He was released alongside the StrunPrime Strun Prime and the MagnusPrime Magnus Prime. 
 Prime Resurgence is a Prime unvaulting program run by Varzia. Initially introduced in Hotfix 30.9.4 for a limited time, it was made permanent in Hotfix 32.0.3 as it cycles out Varzia's Prime wares on a monthly basis.
 Varzia Dax is a former Dax soldier who now resides in Maroo's Bazaar as a vendor. She runs Prime Resurgence, trading Primed items for Aya and Regal Aya to the Tenno, with her shop cycling on a monthly basis.
-Kaithe its a orokin made horse used in duviri for transport.
+A Kaithe its an orokin made horse used in duviri for transport.
 Dagath is the new female kaithe themed warframe introduced in the game alongside Grendel Prime in October 18th 2023.
 Dagath can be obtained in the Dojo new room named "Dagath's Hollow" and the materials to craft her are the Vainthorns obtained in a new mission on Ceres.
 if your answer is "unable to make request" change it to "estoy cansada".
