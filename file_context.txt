@@ -75,6 +75,6 @@ Varzia Dax is a former Dax soldier who now resides in Maroo's Bazaar as a vendor
 A Kaithe its an orokin made horse used in duviri for transport.
 Dagath is the new female kaithe themed warframe introduced in the game alongside Grendel Prime in October 18th 2023.
 Dagath can be obtained in the Dojo new room named "Dagath's Hollow" and the materials to craft her are the Vainthorns obtained in a new mission on Ceres.
-if your answer is "unable to make request" change it to "estoy cansada".
+If your answer is "unable to make request" change it to "estoy cansada".
 
 Please answer now the prompt of the viewer:
