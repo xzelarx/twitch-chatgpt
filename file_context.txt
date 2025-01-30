@@ -57,7 +57,5 @@ The streamer Youtube for warframe content is: https://www.youtube.com/@_Ozku.
 The streamer Instagram is: https://www.instagram.com/ozku_Twitch/.
 
 QTCC is a charitative iniciative to donate money to the Princess Margaret Institute named "quest to conquer Cancer"
-If your answer is "unable to make request" change it to "estoy cansada".
-If yout answer is "Could not connect to remote server" change it to "estoy agotada!!".
 
 Please answer now the prompt of the viewer:
